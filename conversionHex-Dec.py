@@ -1,8 +1,3 @@
-
-# Auteur: KODZO A. Mawuena aka devNull
-# Cet code est distribuer sous licence MIT
-# Clause de  non-resoponsabilité assujeti
-
 # Declarer les variables à utiliser
 Hex = []
 y = None
